@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Vinicius</h1>
 # 💫 About Me:
 🔭 I’m currently working on Powerfleet<br>🌱 I’m currently learning PL SQL
 
