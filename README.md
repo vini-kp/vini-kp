@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 # 💫 About Me:
 
-🔭 I’m currently working on Powerfleet<br>🌱 I’m currently learning SQL and Python
+🔭 I'm an electronic engineer at Powerfleet<br>🌱 I’m currently learning SQL and Python
 
 
 # 💻 Tech Stack:
